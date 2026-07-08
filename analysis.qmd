@@ -2,7 +2,6 @@
 title: "Baby name analysis"
 ---
 
-test {{< fa thumbs-up >}} 
 
 ```{r}
 #| output: false
